@@ -1,0 +1,13 @@
+.app {
+}
+
+.app_left{
+  width: 30%;  
+  float: left; 
+}
+
+ .app_right{
+  width: 70%;
+  float: right;
+  margin-top: 3.2%;
+}

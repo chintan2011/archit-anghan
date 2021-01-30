@@ -1,0 +1,32 @@
+.profile-picture{
+    width: 50%;
+    border-radius: 50%;
+    position: relative;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 10%;
+}
+
+.name{
+    font: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.profileinfo-container{
+    text-align: center;
+}
+
+.email{
+    font-size: 20px;
+    overflow-wrap: break-word;
+}
+
+.social-icons{
+    margin: 0px 10px;
+}
+
+.button-container{
+    margin: 10px 10px;
+}
